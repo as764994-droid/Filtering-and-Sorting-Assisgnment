@@ -1,4 +1,4 @@
-# SQL Filtering and Sorting Assignment - Java + DSA PwSkills
+# SQL Filtering and Sorting Assignment - PwSkills
 
 This repository contains the MySQL Workbench file for the Filtering and Sorting assignment from the Java + DSA course by PwSkills.
 
